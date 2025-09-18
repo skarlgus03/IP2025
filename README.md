@@ -1,7 +1,7 @@
 # IP2025
 Image Processing 2025
 
-<img src="./gosum.jpg" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+<img src="./gosum.jpg" width="30%" height="30%" title="QCQI Visualization" alt="QCQI Visualization"></img>
 
 
 homework 1
