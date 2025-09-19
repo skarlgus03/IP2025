@@ -15,7 +15,10 @@ https://youtu.be/D_r2VZJWVqs
 
 homework 2
 
-<video src="./homework2.mp4" controls></video>
+
+
+https://github.com/user-attachments/assets/58cac50b-2f0a-4032-be6b-4a7b588f8094
+
 
 
 
