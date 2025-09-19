@@ -5,8 +5,19 @@ Image Processing 2025
 
 
 homework 1
+
 https://youtu.be/D_r2VZJWVqs
 
 [![Video](https://img.youtube.com/vi/D_r2VZJWVqs/maxresdefault.jpg)](https://www.youtube.com/watch?v=D_r2VZJWVqs)
 
 
+
+
+homework 2
+
+
+
+
+
+
+homework 3
