@@ -22,4 +22,4 @@ homework 2
 
 homework 3
 
-<img src="./homework3.png" width="50%" height="50%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+<img src="./homework3.png" width="80%" height="80%" title="QCQI Visualization" alt="QCQI Visualization"></img>
