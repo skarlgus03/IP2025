@@ -27,3 +27,11 @@ https://github.com/user-attachments/assets/58cac50b-2f0a-4032-be6b-4a7b588f8094
 homework 3
 
 <img src="./homework3.png" width="80%" height="80%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+
+
+
+
+homework 4
+
+https://github.com/user-attachments/assets/1cf54983-eaa7-4be2-8642-9b0d8afe48e5
+
