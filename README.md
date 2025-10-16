@@ -35,3 +35,10 @@ homework 4
 
 https://github.com/user-attachments/assets/1cf54983-eaa7-4be2-8642-9b0d8afe48e5
 
+
+homework 5
+
+
+
+https://github.com/user-attachments/assets/cd0d0194-aef8-4430-9da5-555ad27efcf7
+
